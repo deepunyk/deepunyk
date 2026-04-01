@@ -1,11 +1,7 @@
-# Deepak Nayak
+Lead Engineer at ClearFeed.ai in Bengaluru.
 
-Lead Engineer at ClearFeed.ai.
+I love building things from scratch, especially products that sit at the intersection of backend systems, AI workflows, and real user problems.
 
-I build backend systems, AI workflows, and product integrations for support and operations teams.
+Right now I'm working on conversational support, agent tooling, and integrations across Slack, Teams, Zendesk, Jira, GitHub, and Salesforce.
 
-- Currently working on conversational support, agent tooling, and automation in Slack and Teams
-- Interested in backend engineering, AI agents, integrations, and developer tools
-- Based in Bengaluru, India
-
-[LinkedIn](https://www.linkedin.com/in/deepak-nayak-in/)
+Interested in backend engineering, AI agents, integrations, and developer tools.
